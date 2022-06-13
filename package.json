@@ -1,0 +1,28 @@
+{
+  "name": "node-red-contrib-iiot-systime",
+  "version": "1.0.20",
+  "description": "A Node-Red node for read system time",
+
+  "dependencies": {
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iiot2k/node-red-contrib-iiot-systime"
+  },
+
+  "license": "Apache-2.0",
+  "keywords": ["node-red", "time", "system time", "iot", "iiot"],
+
+  "node-red": {
+    "nodes": {
+      "iiot-systime": "systime.js"
+    }
+  },
+
+  "author": {
+    "name": "Ocean",
+    "email": "iiot2k@gmail.com",
+    "url": "https://github.com/iiot2k/node-red-contrib-iiot-systime"
+  }
+}
